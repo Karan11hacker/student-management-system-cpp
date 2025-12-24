@@ -1,19 +1,13 @@
-# Student Management System (C++)
+## Student Management System (C++)
 
-A console-based student management application being developed using C++.
+This project implements a console-based Student Management System using C++ and Object-Oriented Programming.
 
-## Status
-🚧 In Progress
+### Features
+- Add new students
+- Search student by roll number
+- Display all student records
 
-## Planned Features
-- Add student records
-- Display all students
-- Search student by ID
-
-## Concepts Used
-- Object-Oriented Programming
-- Vectors
-- Functions
-
-This repository will be updated with source code before May 2026.
-
+### Concepts Used
+- OOP (Classes, Constructors, Encapsulation)
+- STL Vector
+- Menu-driven program
